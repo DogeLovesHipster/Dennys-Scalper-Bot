@@ -1,0 +1,25 @@
+{
+  "name": "scalper_bot",
+  "version": "1.0.0",
+  "description": "My scalper bot",
+  "main": "scalper_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DogeLovesHipster/scalper_bot.git"
+  },
+  "author": "Sergio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DogeLovesHipster/scalper_bot/issues"
+  },
+  "homepage": "https://github.com/DogeLovesHipster/scalper_bot#readme",
+  "dependencies": {
+    "puppeteer": "^19.2.2",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-adblocker": "^2.13.5",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
